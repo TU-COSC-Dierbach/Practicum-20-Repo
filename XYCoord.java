@@ -3,9 +3,9 @@ publlic class XYCoord() {
   private int y;
 
   // default constructor
-  public void XYCoord() {
-    x = 0;
-    y = 0;
+  public void XYCoord(int x_value, int y_value) {
+    x_value - x;
+    y_value = y;
   }
 
   // getters and setters
